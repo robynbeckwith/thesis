@@ -1,0 +1,443 @@
+\begin{thebibliography}{64}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aubin-Tam et~al.(2011)Aubin-Tam, Olivares, Sauer, Baker, and
+  Lang]{Aubin2011}
+Aubin-Tam, M.~E., Olivares, A.~O., Sauer, R.~T., Baker, T.~A., and Lang, M.~J.
+\newblock Single-molecule protein unfolding and translocation by an ATP-fueled
+  proteolytic machine.
+\newblock \emph{Cell}, 145\penalty0 (2):\penalty0 257--67, 2011.
+
+\bibitem[Barthelme and Sauer(2013)]{Barthelme2013}
+Barthelme, D. and Sauer, R.
+\newblock Bipartite determinants mediate an evolutionarily conserved
+  interaction between Cdc48 and the 20S peptidase.
+\newblock \emph{Proc Natl Acad Sci U S A}, 110:\penalty0 3327--32, 2013.
+
+\bibitem[Beck et~al.(2012)Beck, Unverdorben, Bohn, Schweitzer, Pfeifer, Sakata,
+  Nickell, Plitzko, Villa, Baumeister, and Forster]{Beck2012}
+Beck, F., Unverdorben, P., Bohn, S., Schweitzer, A., Pfeifer, G., Sakata, E.,
+  Nickell, S., Plitzko, J.~M., Villa, E., Baumeister, W., and Forster, F.
+\newblock Near-atomic resolution structural model of the yeast 26S proteasome.
+\newblock \emph{Proc Natl Acad Sci U S A}, 109\penalty0 (37):\penalty0
+  14870--5, 2012.
+
+\bibitem[Costa et~al.(2011)Costa, Ilves, Tamberg, Petojevic, Nogales, Botchan,
+  and Berger]{Costa2011}
+Costa, A., Ilves, I., Tamberg, N., Petojevic, T., Nogales, E., Botchan, M.~R.,
+  and Berger, J.~M.
+\newblock The structural basis for MCM2-7 helicase activation by GINS and
+  Cdc45.
+\newblock \emph{Nat Struct Mol Biol}, 18\penalty0 (4):\penalty0 471--7, 2011.
+
+\bibitem[Enemark and Joshua-Tor(2006)]{Enemark2006}
+Enemark, E.~J. and Joshua-Tor, L.
+\newblock Mechanism of DNA translocation in a replicative hexameric helicase.
+\newblock \emph{Nature}, 442\penalty0 (7100):\penalty0 270--5, 2006.
+
+\bibitem[Erales et~al.(2012)Erales, Hoyt, Troll, and Coffino]{Erales2012}
+Erales, J., Hoyt, M.~A., Troll, F., and Coffino, P.
+\newblock Functional asymmetries of proteasome translocase pore.
+\newblock \emph{J Biol Chem}, 287\penalty0 (22):\penalty0 18535--43, 2012.
+
+\bibitem[Finley(2009)]{Finley2009}
+Finley, D.
+\newblock Recognition and processing of ubiquitin-protein conjugates by the
+  proteasome.
+\newblock \emph{Annu Rev Biochem}, 78:\penalty0 477--513, 2009.
+
+\bibitem[Funakoshi et~al.(2009)Funakoshi, Tomko, Kobayashi, and
+  Hochstrasser]{Funakoshi2009}
+Funakoshi, M., Tomko, J.~R.~J., Kobayashi, H., and Hochstrasser, M.
+\newblock Multiple assembly chaperones govern biogenesis of the proteasome
+  regulatory particle base.
+\newblock \emph{Cell}, 137\penalty0 (5):\penalty0 887--99, 2009.
+
+\bibitem[Gillette et~al.(2008)Gillette, Kumar, Thompson, Slaughter, and
+  DeMartino]{Gillette2008}
+Gillette, T.~G., Kumar, B., Thompson, D., Slaughter, C.~A., and DeMartino,
+  G.~N.
+\newblock Differential roles of the COOH termini of AAA subunits of PA700 (19 S
+  regulator) in asymmetric assembly and activation of the 26 S proteasome.
+\newblock \emph{J Biol Chem}, 283\penalty0 (46):\penalty0 31813--22, 2008.
+
+\bibitem[Glickman et~al.(1998)Glickman, Rubin, Fried, and Finley]{Glickman1998}
+Glickman, M.~H., Rubin, D.~M., Fried, V.~A., and Finley, D.
+\newblock The regulatory particle of the Saccharomyces cerevisiae proteasome.
+\newblock \emph{Mol Cell Biol}, 18\penalty0 (6):\penalty0 3149--62, 1998.
+
+\bibitem[Glynn et~al.(2009)Glynn, Martin, Nager, Baker, and Sauer]{Glynn2009}
+Glynn, S.~E., Martin, A., Nager, A.~R., Baker, T.~A., and Sauer, R.~T.
+\newblock Structures of asymmetric ClpX hexamers reveal nucleotide-dependent
+  motions in a AAA+ protein-unfolding machine.
+\newblock \emph{Cell}, 139\penalty0 (4):\penalty0 744--56, 2009.
+
+\bibitem[Glynn et~al.(2012)Glynn, Nager, Baker, and Sauer]{Glynn2012}
+Glynn, S.~E., Nager, A.~R., Baker, T.~A., and Sauer, R.~T.
+\newblock Dynamic and static components power unfolding in topologically closed
+  rings of a AAA+ proteolytic machine.
+\newblock \emph{Nat Struct Mol Biol}, 19\penalty0 (6):\penalty0 616--22, 2012.
+
+\bibitem[Gomez et~al.(2002)Gomez, Catlett, and Forsburg]{Gomez2002}
+Gomez, E.~B., Catlett, M.~G., and Forsburg, S.~L.
+\newblock Different phenotypes in vivo are associated with ATPase motif
+  mutations in Schizosaccharomyces pombe minichromosome maintenance proteins.
+\newblock \emph{Genetics}, 160\penalty0 (4):\penalty0 1305--18, 2002.
+
+\bibitem[Groll et~al.(2000)Groll, Bajorek, Kohler, Moroder, Rubin, Huber,
+  Glickman, and Finley]{Groll2000}
+Groll, M., Bajorek, M., Kohler, A., Moroder, L., Rubin, D.~M., Huber, R.,
+  Glickman, M.~H., and Finley, D.
+\newblock A gated channel into the proteasome core particle.
+\newblock \emph{Nat Struct Biol}, 7\penalty0 (11):\penalty0 1062--7, 2000.
+
+\bibitem[Guo et~al.(2002)Guo, Maurizi, Esser, and Xia]{Guo2002}
+Guo, F., Maurizi, M.~R., Esser, L., and Xia, D.
+\newblock Crystal structure of ClpA, an Hsp100 chaperone and regulator of ClpAP
+  protease.
+\newblock \emph{J Biol Chem}, 277\penalty0 (48):\penalty0 46743--52, 2002.
+
+\bibitem[Hamazaki et~al.(2006)Hamazaki, Iemura, Natsume, Yashiroda, Tanaka, and
+  Murata]{Hamazaki2006}
+Hamazaki, J., Iemura, S., Natsume, T., Yashiroda, H., Tanaka, K., and Murata,
+  S.
+\newblock A novel proteasome interacting protein recruits the deubiquitinating
+  enzyme UCH37 to 26S proteasomes.
+\newblock \emph{Embo J}, 25\penalty0 (19):\penalty0 4524--36, 2006.
+
+\bibitem[Hanson and Whiteheart(2005)]{Hanson2005}
+Hanson, P.~I. and Whiteheart, S.~W.
+\newblock AAA+ proteins: have engine, will work.
+\newblock \emph{Nat Rev Mol Cell Biol}, 6\penalty0 (7):\penalty0 519--29, 2005.
+
+\bibitem[Hersch et~al.(2005)Hersch, Burton, Bolon, Baker, and
+  Sauer]{Hersch2005}
+Hersch, G.~L., Burton, R.~E., Bolon, D.~N., Baker, T.~A., and Sauer, R.~T.
+\newblock Asymmetric interactions of ATP with the AAA+ ClpX6 unfoldase:
+  allosteric control of a protein machine.
+\newblock \emph{Cell}, 121\penalty0 (7):\penalty0 1017--27, 2005.
+
+\bibitem[Hinnerwisch et~al.(2005)Hinnerwisch, Fenton, Furtak, Farr, and
+  Horwich]{Hinnerwisch2005}
+Hinnerwisch, J., Fenton, W.~A., Furtak, K.~J., Farr, G.~W., and Horwich, A.~L.
+\newblock Loops in the central channel of ClpA chaperone mediate protein
+  binding, unfolding, and translocation.
+\newblock \emph{Cell}, 121\penalty0 (7):\penalty0 1029--41, 2005.
+
+\bibitem[Hochstrasser(1996)]{Hochstrasser1996}
+Hochstrasser, M.
+\newblock Ubiquitin-dependent protein degradation.
+\newblock \emph{Annu Rev Genet}, 30:\penalty0 405--39, 1996.
+
+\bibitem[Kaneko et~al.(2009)Kaneko, Hamazaki, Iemura, Sasaki, Furuyama,
+  Natsume, Tanaka, and Murata]{Kaneko2009}
+Kaneko, T., Hamazaki, J., Iemura, S., Sasaki, K., Furuyama, K., Natsume, T.,
+  Tanaka, K., and Murata, S.
+\newblock Assembly pathway of the Mammalian proteasome base subcomplex is
+  mediated by multiple specific chaperones.
+\newblock \emph{Cell}, 137\penalty0 (5):\penalty0 914--25, 2009.
+
+\bibitem[Kim and Kim(2003)]{Kim2003}
+Kim, D.~Y. and Kim, K.~K.
+\newblock Crystal structure of ClpX molecular chaperone from Helicobacter
+  pylori.
+\newblock \emph{J Biol Chem}, 278\penalty0 (50):\penalty0 50664--70, 2003.
+
+\bibitem[Kim and DeMartino(2011)]{Kim2011}
+Kim, Y.~C. and DeMartino, G.~N.
+\newblock C termini of proteasomal ATPases play nonequivalent roles in cellular
+  assembly of mammalian 26 S proteasome.
+\newblock \emph{J Biol Chem}, 286\penalty0 (30):\penalty0 26652--66, 2011.
+
+\bibitem[Kim et~al.(2012)Kim, Li, Thompson, and Demartino]{Kim2012}
+Kim, Y.~C., Li, X., Thompson, D., and Demartino, G.~N.
+\newblock ATP-binding by proteasomal ATPases regulates cellular assembly and
+  substrate-induced functions of the 26S proteasome.
+\newblock \emph{J Biol Chem}, 2012.
+
+\bibitem[Kohler et~al.(2001)Kohler, Cascio, Leggett, Woo, Goldberg, and
+  Finley]{Kohler2001}
+Kohler, A., Cascio, P., Leggett, D.~S., Woo, K.~M., Goldberg, A.~L., and
+  Finley, D.
+\newblock The axial channel of the proteasome core particle is gated by the
+  Rpt2 ATPase and controls both substrate entry and product release.
+\newblock \emph{Mol Cell}, 7\penalty0 (6):\penalty0 1143--52, 2001.
+
+\bibitem[Kumar et~al.(2010)Kumar, Kim, and DeMartino]{Kumar2010}
+Kumar, B., Kim, Y.~C., and DeMartino, G.~N.
+\newblock The C terminus of Rpt3, an ATPase subunit of PA700 (19 S) regulatory
+  complex, is essential for 26 S proteasome assembly but not for activation.
+\newblock \emph{J Biol Chem}, 285\penalty0 (50):\penalty0 39523--35, 2010.
+
+\bibitem[Lander et~al.(2012)Lander, Estrin, Matyskiela, Bashore, Nogales, and
+  Martin]{Lander2012}
+Lander, G.~C., Estrin, E., Matyskiela, M.~E., Bashore, C., Nogales, E., and
+  Martin, A.
+\newblock Complete subunit architecture of the proteasome regulatory particle.
+\newblock \emph{Nature}, 482\penalty0 (7384):\penalty0 186--91, 2012.
+
+\bibitem[Lee et~al.(2012)Lee, Moon, Yoon, and Yoon]{Lee2012}
+Lee, S.~H., Moon, J.~H., Yoon, S.~K., and Yoon, J.~B.
+\newblock Stable incorporation of ATPase subunits into 19 S regulatory particle
+  of human proteasome requires nucleotide binding and C-terminal tails.
+\newblock \emph{J Biol Chem}, 287\penalty0 (12):\penalty0 9269--79, 2012.
+
+\bibitem[Leggett et~al.(2005)Leggett, Glickman, and Finley]{Leggett2005}
+Leggett, D.~S., Glickman, M.~H., and Finley, D.
+\newblock Purification of proteasomes, proteasome subcomplexes, and
+  proteasome-associated proteins from budding yeast.
+\newblock \emph{Methods Mol Biol}, 301:\penalty0 57--70, 2005.
+
+\bibitem[Li and Demartino(2009)]{Li2009}
+Li, X. and Demartino, G.~N.
+\newblock Variably modulated gating of the 26S proteasome by ATP and
+  polyubiquitin.
+\newblock \emph{Biochem J}, 421\penalty0 (3):\penalty0 397--404, 2009.
+
+\bibitem[Liu et~al.(2006)Liu, Li, Thompson, Wooding, Chang, Tang, Yu, Thomas,
+  and DeMartino]{Liu2006}
+Liu, C.~W., Li, X., Thompson, D., Wooding, K., Chang, T.~L., Tang, Z., Yu, H.,
+  Thomas, P.~J., and DeMartino, G.~N.
+\newblock ATP binding and ATP hydrolysis play distinct roles in the function of
+  26S proteasome.
+\newblock \emph{Mol Cell}, 24\penalty0 (1):\penalty0 39--50, 2006.
+
+\bibitem[Maillard et~al.(2011)Maillard, Chistol, Sen, Righini, Tan, Kaiser,
+  Hodges, Martin, and Bustamante]{Maillard2011}
+Maillard, R.~A., Chistol, G., Sen, M., Righini, M., Tan, J., Kaiser, C.~M.,
+  Hodges, C., Martin, A., and Bustamante, C.
+\newblock ClpX(P) generates mechanical force to unfold and translocate its
+  protein substrates.
+\newblock \emph{Cell}, 145\penalty0 (3):\penalty0 459--69, 2011.
+
+\bibitem[Martin et~al.(2005)Martin, Baker, and Sauer]{Martin2005}
+Martin, A., Baker, T.~A., and Sauer, R.~T.
+\newblock Rebuilt AAA + motors reveal operating principles for ATP-fuelled
+  machines.
+\newblock \emph{Nature}, 437\penalty0 (7062):\penalty0 1115--20, 2005.
+
+\bibitem[Martin et~al.(2007)Martin, Baker, and Sauer]{Martin2007}
+Martin, A., Baker, T.~A., and Sauer, R.~T.
+\newblock Distinct static and dynamic interactions control ATPase-peptidase
+  communication in a AAA+ protease.
+\newblock \emph{Mol Cell}, 27\penalty0 (1):\penalty0 41--52, 2007.
+
+\bibitem[Martin et~al.(2008{\natexlab{a}})Martin, Baker, and
+  Sauer]{Martin2008a}
+Martin, A., Baker, T.~A., and Sauer, R.~T.
+\newblock Pore loops of the AAA+ ClpX machine grip substrates to drive
+  translocation and unfolding.
+\newblock \emph{Nat Struct Mol Biol}, 15\penalty0 (11):\penalty0 1147--51,
+  2008{\natexlab{a}}.
+
+\bibitem[Martin et~al.(2008{\natexlab{b}})Martin, Baker, and
+  Sauer]{Martin2008b}
+Martin, A., Baker, T.~A., and Sauer, R.~T.
+\newblock Diverse pore loops of the AAA+ ClpX machine mediate unassisted and
+  adaptor-dependent recognition of ssrA-tagged substrates.
+\newblock \emph{Mol Cell}, 29\penalty0 (4):\penalty0 441--50,
+  2008{\natexlab{b}}.
+
+\bibitem[Matyskiela et~al.(2013)Matyskiela, Lander, and Martin]{Matyskiela2013}
+Matyskiela, M.~E., Lander, G.~C., and Martin, A.
+\newblock Conformational switching of the 26S proteasome enables substrate
+  degradation.
+\newblock \emph{Nat Struct Mol Biol}, 20\penalty0 (7):\penalty0 781--8, 2013.
+
+\bibitem[Nyquist and Martin(2014)]{Nyquist2014}
+Nyquist, K. and Martin, A.
+\newblock Marching to the beat of the ring: polypeptide translocation by AAA+
+  proteases.
+\newblock \emph{Trends in Biochemical Sciences}, 39:\penalty0 53--60, 2014.
+
+\bibitem[Park et~al.(2005)Park, Rho, Koh, Ahn, Seong, Song, Bang, Seol, Wang,
+  Eom, and Chung]{Park2005}
+Park, E., Rho, Y.~M., Koh, O.~J., Ahn, S.~W., Seong, I.~S., Song, J.~J., Bang,
+  O., Seol, J.~H., Wang, J., Eom, S.~H., and Chung, C.~H.
+\newblock Role of the GYVG pore motif of HslU ATPase in protein unfolding and
+  translocation for degradation by HslV peptidase.
+\newblock \emph{J Biol Chem}, 280\penalty0 (24):\penalty0 22892--8, 2005.
+
+\bibitem[Park et~al.(2009)Park, Roelofs, Kim, Robert, Schmidt, Gygi, and
+  Finley]{Park2009}
+Park, S., Roelofs, J., Kim, W., Robert, J., Schmidt, M., Gygi, S.~P., and
+  Finley, D.
+\newblock Hexameric assembly of the proteasomal ATPases is templated through
+  their C termini.
+\newblock \emph{Nature}, 459\penalty0 (7248):\penalty0 866--70, 2009.
+
+\bibitem[Park et~al.(2013)Park, Li, Kim, Singh, Tian, Hoyt, Lovell, Battaile,
+  Zolkiewski, Coffino, Roelofs, Cheng, and Finley]{Park2013}
+Park, S., Li, X., Kim, H.~M., Singh, C.~R., Tian, G., Hoyt, M.~A., Lovell, S.,
+  Battaile, K.~P., Zolkiewski, M., Coffino, P., Roelofs, J., Cheng, Y., and
+  Finley, D.
+\newblock Reconfiguration of the proteasome during chaperone-mediated assembly.
+\newblock \emph{Nature}, 2013.
+
+\bibitem[Rabl et~al.(2008)Rabl, Smith, Yu, Chang, Goldberg, and
+  Cheng]{Rabl2008}
+Rabl, J., Smith, D.~M., Yu, Y., Chang, S.~C., Goldberg, A.~L., and Cheng, Y.
+\newblock Mechanism of gate opening in the 20S proteasome by the proteasomal
+  ATPases.
+\newblock \emph{Mol Cell}, 30\penalty0 (3):\penalty0 360--8, 2008.
+
+\bibitem[Roelofs et~al.(2009)Roelofs, Park, Haas, Tian, McAllister, Huo, Lee,
+  Zhang, Shi, Gygi, and Finley]{Roelofs2009}
+Roelofs, J., Park, S., Haas, W., Tian, G., McAllister, F.~E., Huo, Y., Lee,
+  B.~H., Zhang, F., Shi, Y., Gygi, S.~P., and Finley, D.
+\newblock Chaperone-mediated pathway of proteasome regulatory particle
+  assembly.
+\newblock \emph{Nature}, 459\penalty0 (7248):\penalty0 861--5, 2009.
+
+\bibitem[Rubin et~al.(1998)Rubin, Glickman, Larsen, Dhruvakumar, and
+  Finley]{Rubin1998}
+Rubin, D.~M., Glickman, M.~H., Larsen, C.~N., Dhruvakumar, S., and Finley, D.
+\newblock Active site mutants in the six regulatory particle ATPases reveal
+  multiple roles for ATP in the proteasome.
+\newblock \emph{Embo J}, 17\penalty0 (17):\penalty0 4909--19, 1998.
+
+\bibitem[Saeki et~al.(2009)Saeki, Toh, Kudo, Kawamura, and Tanaka]{Saeki2009}
+Saeki, Y., Toh, E.~A., Kudo, T., Kawamura, H., and Tanaka, K.
+\newblock Multiple proteasome-interacting proteins assist the assembly of the
+  yeast 19S regulatory particle.
+\newblock \emph{Cell}, 137\penalty0 (5):\penalty0 900--13, 2009.
+
+\bibitem[Sakata et~al.(2012)Sakata, Bohn, Mihalache, Kiss, Beck, Nagy, Nickell,
+  Tanaka, Saeki, Forster, and Baumeister]{Sakata2012}
+Sakata, E., Bohn, S., Mihalache, O., Kiss, P., Beck, F., Nagy, I., Nickell, S.,
+  Tanaka, K., Saeki, Y., Forster, F., and Baumeister, W.
+\newblock Localization of the proteasomal ubiquitin receptors Rpn10 and Rpn13
+  by electron cryomicroscopy.
+\newblock \emph{Proc Natl Acad Sci U S A}, 109\penalty0 (5):\penalty0 1479--84,
+  2012.
+
+\bibitem[Seong et~al.(2002)Seong, Kang, Choi, Lee, Koh, Wang, Eom, and
+  Chung]{Seong2002}
+Seong, I.~S., Kang, M.~S., Choi, M.~K., Lee, J.~W., Koh, O.~J., Wang, J., Eom,
+  S.~H., and Chung, C.~H.
+\newblock The C-terminal tails of HslU ATPase act as a molecular switch for
+  activation of HslV peptidase.
+\newblock \emph{J Biol Chem}, 277\penalty0 (29):\penalty0 25976--82, 2002.
+
+\bibitem[Singleton et~al.(2000)Singleton, Sawaya, Ellenberger, and
+  Wigley]{Singleton2000}
+Singleton, M.~R., Sawaya, M.~R., Ellenberger, T., and Wigley, D.~B.
+\newblock Crystal structure of T7 gene 4 ring helicase indicates a mechanism
+  for sequential hydrolysis of nucleotides.
+\newblock \emph{Cell}, 101\penalty0 (6):\penalty0 589--600, 2000.
+
+\bibitem[Sledz et~al.(2013)Sledz, Unverdorben, Beck, Pfeifer, Schweitzer,
+  Forster, and Baumeister]{Sledz2013}
+Sledz, P., Unverdorben, P., Beck, F., Pfeifer, G., Schweitzer, A., Forster, F.,
+  and Baumeister, W.
+\newblock Structure of the 26S proteasome with ATP-gammaS bound provides
+  insights into the mechanism of nucleotide-dependent substrate translocation.
+\newblock \emph{Proc Natl Acad Sci U S A}, 110\penalty0 (18):\penalty0 7264--9,
+  2013.
+
+\bibitem[Smith et~al.(2005)Smith, Kafri, Cheng, Ng, Walz, and
+  Goldberg]{Smith2005}
+Smith, D.~M., Kafri, G., Cheng, Y., Ng, D., Walz, T., and Goldberg, A.~L.
+\newblock ATP binding to PAN or the 26S ATPases causes association with the 20S
+  proteasome, gate opening, and translocation of unfolded proteins.
+\newblock \emph{Mol Cell}, 20\penalty0 (5):\penalty0 687--98, 2005.
+
+\bibitem[Smith et~al.(2007)Smith, Chang, Park, Finley, Cheng, and
+  Goldberg]{Smith2007}
+Smith, D.~M., Chang, S.~C., Park, S., Finley, D., Cheng, Y., and Goldberg,
+  A.~L.
+\newblock Docking of the proteasomal ATPases' carboxyl termini in the 20S
+  proteasome's alpha ring opens the gate for substrate entry.
+\newblock \emph{Mol Cell}, 27\penalty0 (5):\penalty0 731--44, 2007.
+
+\bibitem[Smith et~al.(2011)Smith, Fraga, Reis, Kafri, and Goldberg]{Smith2011}
+Smith, D.~M., Fraga, H., Reis, C., Kafri, G., and Goldberg, A.~L.
+\newblock ATP binds to proteasomal ATPases in pairs with distinct functional
+  effects, implying an ordered reaction cycle.
+\newblock \emph{Cell}, 144\penalty0 (4):\penalty0 526--38, 2011.
+
+\bibitem[Thompson et~al.(2009)Thompson, Hakala, and DeMartino]{Thompson2009}
+Thompson, D., Hakala, K., and DeMartino, G.~N.
+\newblock Subcomplexes of PA700, the 19 S regulator of the 26 S proteasome,
+  reveal relative roles of AAA subunits in 26 S proteasome assembly and
+  activation and ATPase activity.
+\newblock \emph{J Biol Chem}, 284\penalty0 (37):\penalty0 24891--903, 2009.
+
+\bibitem[Thomsen and Berger(2009)]{Thomsen2009}
+Thomsen, N.~D. and Berger, J.~M.
+\newblock Running in reverse: the structural basis for translocation polarity
+  in hexameric helicases.
+\newblock \emph{Cell}, 139\penalty0 (3):\penalty0 523--34, 2009.
+
+\bibitem[Thrower et~al.(2000)Thrower, Hoffman, Rechsteiner, and
+  Pickart]{Thrower2000}
+Thrower, J.~S., Hoffman, L., Rechsteiner, M., and Pickart, C.~M.
+\newblock Recognition of the polyubiquitin proteolytic signal.
+\newblock \emph{Embo J}, 19\penalty0 (1):\penalty0 94--102, 2000.
+
+\bibitem[Tian et~al.(2011)Tian, Park, Lee, Huck, McAllister, Hill, Gygi, and
+  Finley]{Tian2011}
+Tian, G., Park, S., Lee, M.~J., Huck, B., McAllister, F., Hill, C.~P., Gygi,
+  S.~P., and Finley, D.
+\newblock An asymmetric interface between the regulatory and core particles of
+  the proteasome.
+\newblock \emph{Nat Struct Mol Biol}, 18\penalty0 (11):\penalty0 1259--67,
+  2011.
+
+\bibitem[Tomko et~al.(2010)Tomko, Funakoshi, Schneider, Wang, and
+  Hochstrasser]{Tomko2010}
+Tomko, J.~R.~J., Funakoshi, M., Schneider, K., Wang, J., and Hochstrasser, M.
+\newblock Heterohexameric ring arrangement of the eukaryotic proteasomal
+  ATPases: implications for proteasome structure and assembly.
+\newblock \emph{Mol Cell}, 38\penalty0 (3):\penalty0 393--403, 2010.
+
+\bibitem[Tomko and Hochstrasser(2011)]{Tomko2011}
+Tomko, R. and Hochstrasser, M.
+\newblock Order of the Proteasomal ATPases and Eukaryotic Proteasome Assembly.
+\newblock \emph{Cell Biochem Biophys}, 60:\penalty0 13--20, 2011.
+
+\bibitem[Verma et~al.(2002)Verma, Aravind, Oania, McDonald, Yates, Koonin, and
+  Deshaies]{Verma2002}
+Verma, R., Aravind, L., Oania, R., McDonald, W.~H., Yates, r.~J.~R., Koonin,
+  E.~V., and Deshaies, R.~J.
+\newblock Role of Rpn11 metalloprotease in deubiquitination and degradation by
+  the 26S proteasome.
+\newblock \emph{Science}, 298\penalty0 (5593):\penalty0 611--5, 2002.
+
+\bibitem[Verma et~al.(2004)Verma, Oania, Graumann, and Deshaies]{Verma2004}
+Verma, R., Oania, R., Graumann, J., and Deshaies, R.~J.
+\newblock Multiubiquitin chain receptors define a layer of substrate
+  selectivity in the ubiquitin-proteasome system.
+\newblock \emph{Cell}, 118\penalty0 (1):\penalty0 99--110, 2004.
+
+\bibitem[Wang et~al.(2001)Wang, Song, Franklin, Kamtekar, Im, Rho, Seong, Lee,
+  Chung, and Eom]{Wang2001}
+Wang, J., Song, J., Franklin, S., Kamtekar, S., Im, Y., Rho, S., Seong, I.,
+  Lee, C., Chung, C., and Eom, S.
+\newblock Crystal structures of the HslVU peptidase-ATPase complex reveal an
+  ATP-dependent proteolysis mechanism.
+\newblock \emph{Structure}, 9:\penalty0 177--184, 2001.
+
+\bibitem[Weibezahn et~al.(2004)Weibezahn, Bukau, and Mogk]{Weibezahn2004}
+Weibezahn, J., Bukau, B., and Mogk, A.
+\newblock Unscrambling an egg: protein disaggregation by AAA+ proteins.
+\newblock \emph{Microb Cell Fact}, 3\penalty0 (1):\penalty0 1, 2004.
+
+\bibitem[Yamada-Inagawa et~al.(2003)Yamada-Inagawa, Okuno, Karata, Yamanaka,
+  and Ogura]{Yamada2003}
+Yamada-Inagawa, T., Okuno, T., Karata, K., Yamanaka, K., and Ogura, T.
+\newblock Conserved pore residues in the AAA protease FtsH are important for
+  proteolysis and its coupling to ATP hydrolysis.
+\newblock \emph{J Biol Chem}, 278\penalty0 (50):\penalty0 50182--7, 2003.
+
+\bibitem[Yao and Cohen(2002)]{Yao2002}
+Yao, T. and Cohen, R.~E.
+\newblock A cryptic protease couples deubiquitination and degradation by the
+  proteasome.
+\newblock \emph{Nature}, 419\penalty0 (6905):\penalty0 403--7, 2002.
+
+\end{thebibliography}

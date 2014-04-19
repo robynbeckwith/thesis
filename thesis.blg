@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: plainnat_robyn.bst
+A level-1 auxiliary file: setup.aux
+A level-1 auxiliary file: ./chapters/chap1.aux
+A level-1 auxiliary file: ./chapters/chap2.aux
+A level-1 auxiliary file: ./chapters/chap3.aux
+A level-1 auxiliary file: ./chapters/chap4.aux
+A level-1 auxiliary file: ./Appendices/AppendixA.aux
+A level-1 auxiliary file: ./Appendices/AppendixB.aux
+A level-1 auxiliary file: ./Appendices/AppendixC.aux
+Database file #1: library_robyn.bib
+You've used 64 entries,
+            2771 wiz_defined-function locations,
+            1008 strings with 17899 characters,
+and the built_in function-call counts, 37664 in all, are:
+= -- 3091
+> -- 3095
+< -- 12
++ -- 1034
+- -- 969
+* -- 3648
+:= -- 5994
+add.period$ -- 192
+call.type$ -- 64
+change.case$ -- 451
+chr.to.int$ -- 63
+cite$ -- 128
+duplicate$ -- 1330
+empty$ -- 2545
+format.name$ -- 1053
+if$ -- 7707
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 64
+newline$ -- 328
+num.names$ -- 256
+pop$ -- 908
+preamble$ -- 1
+purify$ -- 451
+quote$ -- 0
+skip$ -- 1109
+stack$ -- 0
+substring$ -- 1307
+swap$ -- 66
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 704
+warning$ -- 0
+while$ -- 254
+width$ -- 0
+write$ -- 837

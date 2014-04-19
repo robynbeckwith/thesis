@@ -1,0 +1,99 @@
+
+\chapter{Base Purification Protocol}
+\label{AppendixB}
+\lhead{Appendix B. Base Purification Protocol}
+
+\textbf{OBJECTIVE}: Purification of base subcomplex from E. coli
+\begin{itemize}
+  \item Grow, induce and harvest liter\--scale cultures
+  \item Nickel affinity column
+  \item Anti\--FLAG affinity column
+  \item Superose 6 gel filtration chromatography
+\end{itemize}
+
+%\vspace{0.75cm}
+%\noindent\makebox[\linewidth]{\rule{\textwidth}{0.5pt}} 
+
+
+\vspace{0.5cm}
+\textbf{Purification buffers}\par
+\textit{Make buffers without ATP/DTT, then add to the required amount of buffer prior to use}
+\vspace{0.25cm}
+
+\textbf{Nickel A}\par
+25 mM HEPES, pH 7.6\par
+100 mM NaCl\par
+100 mM KCl\par
+10\% glycerol\par
+10 mM MgCl2\par
+0.5 mM EDTA\par
+20 mM imidazole\par
+0.5 mM ATP\\
+
+\textbf{Nickel B} \par
+add 250 mM imidazole (solid) and re-adjust buffer to pH 7.6\\
+
+\textbf{Gel filtration}\par
+60 mM HEPES, pH 7.6\par
+50 mM NaCl\par
+50 mM KCl\par
+10\% glycerol\par
+5 mM MgCl2\par
+0.5 mM EDTA\par
+0.5 mM ATP\par
+1 mM DTT\\
+
+
+\textbf{Day 1}
+\begin{itemize}
+  \item Inoculate 50mL starter culture from cell stock
+	\begin{itemize}
+		\item Amp$^{res}:$ pETDUET (Rpn1/Rpn2/Rpn13)
+		\item Kan$^{res}$: pCOLA (Flag-Rpt1/Rpt2/His-Rpt3/Rpt5/Rpt6/Rpt4)
+		\item Chl$^{res}$: pACYC (chaperones Nas2/Nas6/Hsm3/Rpn14)
+	\end{itemize}
+  \item Grow overnight at 30°C\\
+\end{itemize}
+
+
+\textbf{Day 2}
+\begin{itemize}
+  \item Wash culture with dYT and inoculate each 1 liter flask with approximately 5mL of saturated overnight culture
+  \item Grow large cultures at 37°C until OD$_{600}$ $=$ 0.4\--0.5 (2\--4 hours)
+  \item Cool cultures to 18°C and induce at OD$_{600}$ $=$ 0.6\--0.8 with 1 mM IPTG overnight\\
+\end{itemize}
+
+
+\textbf{Day 3}
+\begin{itemize}
+  \item Harvest liter cultures by centrifuging at 4000 rpm for 20\--30 minutes
+  \item Resuspend pelleted cells in 10 mL nickel A buffer per liter of culture
+  \item Add lysozyme, benzonase and protease inhibitors (PMSF, leupeptin, aprotinin, pepstatin)
+  \item Freeze at \--80°C\\
+\end{itemize}
+
+
+\textbf{Day 3-4}
+\begin{itemize}
+  \item Freeze-thaw cell lysates 2\--3 times total by thawing frozen lysate in cool or room temperature water and re\--freezing at \--80°C for at least a few hours\\
+\end{itemize}
+
+
+\textbf{Day 4}
+\begin{itemize}
+  \item Thaw frozen lysate
+  \item Sonicate lysate in plastic container on ice: 90 \% power for 15 seconds on, 1 minute 30 seconds off for total sonication time of 1 minute 30 seconds
+  \item Centrifuge lysate at 15,000 rpm for 30 minutes at 4C
+  \item Wash nickel resin (50 \% slurry) twice with 25 ml nickel A buffer (use approximately 2 mL slurry per liter of culture)
+  \item Incubate supernant with nickel resin for 30 minutes to 1 hour\\
+  	\textit{All buffers from here on contain 0.5 mM ATP}
+  \item Batch wash with nickel A buffer twice, then transfer resin to a column and wash until slow through no longer reacts with Bradford reagent.
+  \item Elute with nickel B buffer in 1 mL aliquots
+  \item Run pooled nickel eluate over a column containing 3-5 mL anti-FLAG M2 resin, repeat 3\--5 times
+  \item Wash with 25\--50mL of nickel A buffer until flow through is clean
+  \item Elute from FLAG column with nickel A buffer containing 0.15 mg ml$_{\--1}$ 3X FLAG peptide in 0.5 mL fractions
+  \item Pool FLAG elute and add 5 mM DTT.  Concentrate volume to less than 500 $\mu$L using a 30,0000\-- or 100,000\--MWCO concentrator pre\--equilibrated with nickel A buffer
+  \item Filter concentrated eluate through a small spin filter before performing gel filtration chromatography
+  \item Run Superose 6 sizing column with gel filtration buffer containing 1 mM DTT and 0.5 mM ATP \\
+\end{itemize}
+

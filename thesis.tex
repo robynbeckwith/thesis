@@ -1,0 +1,127 @@
+% This sample file is dedicated to the public domain.
+\documentclass[12pt]{myucthesis}
+
+%\nofiles
+% The above command prevents latex from writing its auxiliary
+% files. This is useful if you want to manually tweak them before you
+% generate your final PDF.
+
+
+% Page layout. The fancyhdr package may complain about the need for a
+% larger headheight, depending on how long chapter titles are; if left
+% unspecified in the geometry setup, it defaults to 12pt. The
+% "showframe" option causes the geometry package (version >= 5.0) to
+% show a frame around the margins on every page, which is great for
+% checking that you don't overflow anywhere.
+
+%\usepackage[letterpaper,includehead,margin=1in,headheight=15pt,showframe]{geometry}
+\usepackage[letterpaper,includehead,margin=1in,headheight=15pt]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\lhead[\fancyplain{\thepage}{\thepage}]{\fancyplain{}{\scshape\rightmark}}
+\rhead[\fancyplain{}{\scshape\leftmark}]{\fancyplain{\thepage}{\thepage}}
+\chead{}
+\cfoot{}
+\lfoot{}
+\rfoot{}
+
+
+% Bibliography stuff:
+
+\newcommand{\newblock}{\par} % need this for some natbib internal bug
+\usepackage{natbib}
+\citestyle{cell}
+\bibliographystyle{plainnat_robyn}
+\setlength{\bibsep}{1ex} % single-space entries
+\renewcommand{\bibname}{References}
+\def\bibpreamble{\addcontentsline{toc}{chapter}{Bibliography}} % get a good TOC entry
+
+
+% Other setup:
+
+\usepackage[T1]{fontenc} % see http://tinyurl.com/67zdxwf
+\usepackage[colorlinks,urlcolor=blue,citecolor=blue,linkcolor=blue,pdfusetitle]{hyperref}
+\usepackage{pdflscape} % allows landscape-oriented figures with PDF page rotation
+\usepackage{aasmacros,amsmath,amssymb,graphicx}
+\usepackage{mydeluxetable} % deluxetable customized to play well with ucthesis
+
+% MY setup:
+\graphicspath{ {figures/}{figures/Chap1/}{figures/Chap2/}{figures/Chap3/}{figures/Chap4/}{figures/Misc/} }  % Location of the graphics files (set up for graphics to be in PDF format)
+\usepackage{subfigure}
+\usepackage[labelfont=bf,singlelinecheck=off]{caption}
+\usepackage[Sonny]{fncychap}
+\ChTitleVar{\centering\Large\rm\bfseries}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\renewcommand{\tabcolsep}{4pt}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+\renewcommand*{\thesubfigure}{\alph{subfigure}}
+
+
+\begin{document}
+\ssp % single spacing
+\hypersetup{pageanchor=false}
+\include{setup}
+\maketitle
+\copyrightpage
+
+\begin{abstract}
+The 26S proteasome is the major eukaryotic ATP-dependent protease, yet the detailed mechanisms utilized by the proteasomal heterohexameric AAA+ unfoldase to drive sub- strate degradation remain poorly understood. To perform systematic mutational analyses of individual ATPase subunits, we heterologously expressed unfoldase subcomplex from Saccharomyces cerevisiae in Escherichia coli and reconstituted the proteasome in vitro. Our studies demonstrate that the six ATPases play distinct roles in degradation, corresponding to their positions in spiral staircases adopted by the AAA+ domains in the absence and presence of substrate. ATP hydrolysis in subunits at the top of the staircases is critical for substrate engagement and translocation. While the unfoldase relies on this vertical asymmetry for substrate processing, interaction with the peptidase exhibits three-fold symmetry with contributions from every other subunit. These diverse functional asymmetries highlight how the 26S proteasome deviates from simpler, homomeric AAA+ proteases. \\
+\\
+MORE\ldots My work is awesome. Give me a Ph.D.
+\end{abstract}
+
+\hypersetup{pageanchor=true}
+\begin{frontmatter}
+
+\pagestyle{plain} 
+\begin{dedication}
+\null\vfil
+{\large
+\begin{center}
+I dedicate this dissertation to graduate students everywhere.
+\end{center}}
+\null\vfil
+\end{dedication}
+
+\tableofcontents
+\addcontentsline{toc}{chapter}{Table of Contents}
+\listoffigures % optional
+\listoftables % optional
+
+% If using code.sty, can also add:
+%% \listofcodes
+%% \addcontentsline{toc}{chapter}{List of Code Examples}
+
+\begin{acknowledgements}
+Stuff.
+
+% Feel free to modify or remove this acknowledgment:
+%This dissertation was typeset using the
+%\href{https://github.com/pkgw/ucastrothesis}{\textsf{ucastrothesis}}
+%\LaTeX\ template.
+
+\end{acknowledgements}
+\end{frontmatter}
+
+
+\include{./chapters/chap1}
+\include{./chapters/chap2}
+\include{./chapters/chap3}
+\include{./chapters/chap4}
+
+
+\bibliography{library_robyn}{}
+
+\appendix
+\include{./Appendices/AppendixA}	
+\include{./Appendices/AppendixB}	
+\include{./Appendices/AppendixC}	
+
+
+
+
+
+\end{document}
